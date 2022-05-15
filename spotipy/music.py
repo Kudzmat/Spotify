@@ -2,8 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
 # creating spotify object with client ID & Client secret
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="4817e53881d2487b92e87eddd1615c15",
-                                                           client_secret="e994c4877cb54bde889b3003ab5b02f3"))
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id= "put your client id here",
+                                                           client_secret= "put your client secret here"))
 
 
 def search_artist(artist):
