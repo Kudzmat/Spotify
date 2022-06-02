@@ -1,5 +1,5 @@
 # Spotify
-A Spotify app created in Python using Spotify's Python API - "Spotipy"
+A Spotify app created which uses Spotify's web API and a Python library called "Spotipy" which allows you to make use of the API in Python
 
 To use this app you will need to have a spotify account as well as a spotify developers account to get your client id and client secret.
 For security purposes I unfortunately had to remove my credentials.
